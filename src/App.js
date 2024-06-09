@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Arjoo
+          Learn React Arjoo added new code in master
         </a>
       </header>
     </div>
