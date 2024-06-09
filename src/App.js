@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Arjoo added new code in master ssh key delete ssh delete ssh2 cahnge master
+          Learn React Arjoo added new code in master ssh key delete ssh delete ssh2 cahnge master creating main branch
         </a>
       </header>
     </div>
