@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Arjoo added new code in master ssh key
+          Learn React Arjoo added new code in master ssh key delete ssh
         </a>
       </header>
     </div>
